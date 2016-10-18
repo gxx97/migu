@@ -6,5 +6,4 @@ public class Mapp {
 		// TODO Auto-generated method stub
 		System.out.println("java");
 	}
-
 }
